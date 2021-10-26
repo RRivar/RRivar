@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RRivar
+- 👋 Hi, I’m Mateusz Wójcik
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning react.js and material.io
 - 📫 How to reach me takitam132@gmail.com
