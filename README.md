@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mateusz Wójcik
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning react.js and material.io
+- 🌱 I’m currently learning react.js
 - 📫 How to reach me takitam132@gmail.com
 
 <!---
